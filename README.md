@@ -2,13 +2,13 @@
 
 ## Version Control, HTML Forms, CSS and Developer Tools
 
-### 📚 Course Information
+### Course Information
 - **Module**: Software Development 2
 - **Institution**: University of Roehampton
 - **Lab**: Lab 2
 - **Academic Year**: 2025/2026
 
-### 🎯 Learning Objectives
+### Learning Objectives
 
 This lab covers:
 - Git and GitHub version control fundamentals
